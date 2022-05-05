@@ -29,7 +29,6 @@ async def get_user(user_id: str):
         return user_data
     except KeyError:  # we get an index error if we fill in a nonexistent ID.
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND)
-    return
 
 
 @app.post("/users/", status_code=status.HTTP_201_CREATED, response_model=schemas.ReturnUser)
