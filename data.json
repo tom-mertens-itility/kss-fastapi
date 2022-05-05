@@ -1,0 +1,46 @@
+{
+   "users": {
+      "aaa": {
+         "id": "aaa",
+         "name": "Tom Mertens",
+         "age": 25,
+         "email": "tom.mertens@test.com",
+         "nickname": "TommyTech",
+         "creationDate": "2022-04-29 11:53:25",
+         "extraInfo": "Enjoys coffee"
+      },
+      "80bafd0a-f66f-4425-b753-f2c84ce4c4b0": {
+         "name": "Tester1",
+         "age": 30,
+         "email": "tester1@test.com",
+         "nickname": null,
+         "creationDate": "2022-04-29 13:14:50.948670",
+         "id": "80bafd0a-f66f-4425-b753-f2c84ce4c4b0"
+      },
+      "c0bf330b-466e-4365-a9f9-3880c9f74c64": {
+         "name": "Tester2",
+         "age": 32,
+         "email": "tester2@test.com",
+         "nickname": null,
+         "creationDate": "2022-04-29 13:14:50.948670",
+         "id": "c0bf330b-466e-4365-a9f9-3880c9f74c64"
+      },
+      "1b6bdd65-5e02-4b62-9edd-fbef7b33f5d0": {
+         "name": "Tester3",
+         "age": 20,
+         "email": "tester3@test.com",
+         "nickname": "Newbie Tester",
+         "creationDate": "2022-04-29 13:22:13.577861",
+         "id": "1b6bdd65-5e02-4b62-9edd-fbef7b33f5d0"
+      },
+      "995dc554-3988-4452-ad57-d32e2ba9c08d": {
+         "name": "Tester4",
+         "age": 32,
+         "email": "tester4@test.com",
+         "nickname": null,
+         "extraInfo": null,
+         "creationDate": "2022-05-05 13:47:21.185571",
+         "id": "995dc554-3988-4452-ad57-d32e2ba9c08d"
+      }
+   }
+}
